@@ -1,0 +1,6 @@
+{"API_Key":"<API Key>",
+"email_user":"<Email sender address>",
+"email_pass":"<Email sender password>",
+"mail_to":"<Email recipient>",
+"smtp_server":"<SMTP server>",
+"smtp_port":<SMTP Port>}

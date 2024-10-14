@@ -1,0 +1,1 @@
+This script uses the new Unifi API to query all UDM sites in the cloud controller and email a list of offline equipment. I set it up as a Cron job to run once every hour so that I can be proactive at contacting customers and getting them back online faster. The example-environment.json file should be renamed as environment.json once all secrets are configured.
